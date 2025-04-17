@@ -1,0 +1,19 @@
+body {
+    color: aliceblue;
+    background-color: thistle;
+}
+
+@import url('https://fonts.googleapis.com/css2?family=Quicksand&display=swap');
+
+body {
+    color: aliceblue;
+    background-color: thistle;
+}
+
+/* Apply Quicksand to all text elements */
+body, p, h1, h2, h3, h4, h5, h6, span, a, li, td, th, label, input, button, textarea {
+    font-family: 'Quicksand', sans-serif;
+    font-optical-sizing: auto;
+    font-weight: 400;
+    font-style: normal;
+}
