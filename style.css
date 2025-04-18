@@ -69,6 +69,11 @@ h2 {
     margin-bottom: 10px;
 }
 
+h3 {
+    color: black;
+    margin-bottom: 10px;
+}
+
 footer {
     background-color: darkgreen;
     color: white;
